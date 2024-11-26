@@ -26,6 +26,7 @@ todo:
 * do the activities and awards section
     0Please briefly describe the company or organization where you worked. *
     * How have you used or will you use your earnings?
+* donmt forget mission and scu classes in reporting 
 
 done: 
 * make a school ranking 
