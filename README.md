@@ -8,7 +8,8 @@ links:
 * https://catalog.ucdavis.edu/departments-programs-degrees/plant-biology/systems-synthetic-biology-bs/#requirementstext
 * https://bioeng.berkeley.edu/research/synbio
 * https://bioeng.berkeley.edu/undergrad/program/syncompbio
-
+* https://courses.engineering.ucsc.edu/courses/department/3
+* https://catalog.ucsd.edu/courses/BENG.html
 
 todo: 
 * research biology at ucb and see what courses i can take and a possible track 
@@ -28,6 +29,27 @@ todo:
     * How have you used or will you use your earnings?
 * donmt forget mission and scu classes in reporting 
 
+
+
+Please answer the required question
+
+Please describe how you have prepared for your intended major, including your readiness to succeed in your upper-division courses once you enroll at the university.
+Answer
+Please answer any 3 questions below
+
+Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes, or contributed to group efforts over time.
+Answer 
+Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
+Answer 
+What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
+Answer 
+Describe how you have taken advantage of a significant educational opportunity or worked to overcome an educational barrier you have faced.
+Answer 
+Describe the most significant challenge you have faced and the steps you have taken to overcome this challenge. How has this challenge affected your academic achievement?
+Answer 
+What have you done to make your school or your community a better place?
+Answer 
+Beyond what has already been shared in your application, what do you believe makes you a strong candidate for admissions to the University of California?
 done: 
 * make a school ranking 
 * make a github pages 
